@@ -1,4 +1,4 @@
-# first_app_9
+# star_walk_app
 
 A new Flutter project.
 
